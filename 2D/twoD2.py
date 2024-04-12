@@ -15,12 +15,8 @@ import re
 # def diagonal(coord, coord2):
 #     return coord[0] - coord2[0] == coord[1] == coord2[1]
 
-
-
 def solve(board):
     pass
-
-
 
 ### helper function to visualize the board ###
 def print_board(board):
